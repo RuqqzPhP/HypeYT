@@ -1,0 +1,13 @@
+name: HypeYT
+main: ruqqz\Main
+api: 4.0.0
+version: 0.2
+author: ruqqzphp
+
+commands:
+ youtuber:
+  description: Abrir Menu De Youtuber.
+  permission: yt.use
+permissions:
+ yt.use:
+  default: true
